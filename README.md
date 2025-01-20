@@ -1,23 +1,23 @@
-# Sobre mí
+# About Me
 
-Soy un estudiante de Tecnólogo en Análisis y Desarrollo de Software con un profundo interés en el análisis de datos y las tecnologías de la información. Mi pasión por las matemáticas me ha llevado a descubrir en el análisis de datos una oportunidad perfecta para aplicar y desarrollar mis habilidades analíticas.
+I am a Software Analysis and Development Technology student with a deep interest in data analysis and information technologies. My passion for mathematics has led me to discover in data analysis the perfect opportunity to apply and develop my analytical skills.
 
-## Motivaciones
+## Motivations
 
-- **Análisis de Datos**: Me entusiasma explorar patrones y extraer información útil para la toma de decisiones fundamentadas.
-- **Machine Learning**: Estoy iniciando mi camino en este campo, desarrollando proyectos personales para fortalecer mis conocimientos y experiencia.
-- **Ciencia de Datos**: Mi objetivo es convertirme en un científico de datos, capaz de abordar problemas complejos y aportar soluciones innovadoras.
+- **Data Analysis**: I enjoy exploring patterns and extracting valuable insights to support informed decision-making.  
+- **Machine Learning**: I am beginning my journey in this field, developing personal projects to strengthen my knowledge and experience.  
+- **Data Science**: My goal is to become a data scientist, capable of tackling complex problems and providing innovative solutions.  
 
-## Actividades Actuales
+## Current Activities
 
-Actualmente, trabajo en proyectos personales de analítica de datos, donde empleo técnicas de estadística para obtener información valiosa. Paralelamente, me estoy adentrando en el mundo del machine learning, explorando modelos y algoritmos para predecir y comprender comportamientos.
+I am currently working on personal data analytics projects where I use statistical techniques to extract valuable information. At the same time, I am delving into the world of machine learning, exploring models and algorithms to predict and understand behaviors.  
 
-## ¿Qué ofrezco?
+## What Do I Offer?
 
-Estoy buscando oportunidades para contribuir al análisis de datos y el analisis de software, al tiempo que continuo creciendo profesionalmente en un entorno desafiante. Mi compromiso es aprender y aplicar mis conocimientos para generar valor en cada proyecto.
+I am looking for opportunities to contribute to data analysis and software analysis while continuing to grow professionally in a challenging environment. I am committed to learning and applying my knowledge to generate value in every project.  
 
-### Tecnologías y Herramientas
+### Technologies and Tools  
 
-- **Lenguajes de Programación**: Java, Python  
-- **Herramientas de Análisis y visualización**: Excel (nivel intermedio-avanzado), python, Tableau, Power BI  
-- **Machine Learning**: Modelos Supervisados
+- **Programming Languages**: Java, Python  
+- **Analysis and Visualization Tools**: Excel (intermediate-advanced level), Python, Tableau, Power BI  
+- **Machine Learning**: Supervised Models  

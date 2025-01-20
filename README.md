@@ -1,4 +1,4 @@
-# Hola
+# Sobre mí
 
 Soy un estudiante de Tecnólogo en Análisis y Desarrollo de Software con un profundo interés en el análisis de datos y las tecnologías de la información. Mi pasión por las matemáticas me ha llevado a descubrir en el análisis de datos una oportunidad perfecta para aplicar y desarrollar mis habilidades analíticas.
 
@@ -10,16 +10,14 @@ Soy un estudiante de Tecnólogo en Análisis y Desarrollo de Software con un pro
 
 ## Actividades Actuales
 
-Actualmente, trabajo en proyectos personales de analítica de datos, donde empleo técnicas de estadística y aprendizaje automático para obtener información valiosa. Paralelamente, me estoy adentrando en el mundo del machine learning, explorando modelos y algoritmos para predecir y comprender comportamientos.
+Actualmente, trabajo en proyectos personales de analítica de datos, donde empleo técnicas de estadística para obtener información valiosa. Paralelamente, me estoy adentrando en el mundo del machine learning, explorando modelos y algoritmos para predecir y comprender comportamientos.
 
 ## ¿Qué ofrezco?
 
-Estoy buscando oportunidades para contribuir al análisis de datos y el desarrollo de software, al tiempo que continuo creciendo profesionalmente en un entorno desafiante. Mi compromiso es aprender y aplicar mis conocimientos para generar valor en cada proyecto.
+Estoy buscando oportunidades para contribuir al análisis de datos y el analisis de software, al tiempo que continuo creciendo profesionalmente en un entorno desafiante. Mi compromiso es aprender y aplicar mis conocimientos para generar valor en cada proyecto.
 
 ### Tecnologías y Herramientas
 
-- **Lenguajes de Programación**: Java, Python
-- **Herramientas de Análisis**: Pandas, NumPy, Matplotlib
-- **Machine Learning**: Enfoque en aprendizaje supervisado y no supervisado
-
-Estoy listo para asumir nuevos retos, colaborar y contribuir al éxito de tu equipo.
+- **Lenguajes de Programación**: Java, Python  
+- **Herramientas de Análisis y visualización**: Excel (nivel intermedio-avanzado), python, Tableau, Power BI  
+- **Machine Learning**: Modelos Supervisados
